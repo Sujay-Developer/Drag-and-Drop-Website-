@@ -1,0 +1,14 @@
+input {	margin: 15px 10px !important;}
+
+.dropzone {
+	padding: 50px;
+	border: 2px dashed #060;
+}
+
+.dropzone.is-dragover {
+  background-color: #e6ecef;
+}
+
+.dragover {
+	background-color:  red;
+}
